@@ -4,7 +4,7 @@
 맞춤형 독서·사유 루틴, 쓰담.
 
 ## Preview
-<img width="4691" height="7016" alt="포스터_시안" src="https://github.com/user-attachments/assets/663c5ed9-50b4-4200-bdb9-96a3f19044e1" />
+<img width="4691" height="7016" alt="포스터_시안" src="https://github.com/user-attachments/assets/314eb024-4d55-4b0c-b529-5af16817009e" />
 
 ### Members
 <table width="50%" align="center">
@@ -16,11 +16,11 @@
         <td align="center"><b>BE</b></td>
     </tr>
     <tr>
-        <td align="center"><img src="https://github.com/user-attachments/assets/8bc28bd0-8787-49de-8e3e-bac1e3cd1872" /></td>
-        <td align="center"><img src="https://github.com/user-attachments/assets/8bc28bd0-8787-49de-8e3e-bac1e3cd1872" /></td>
+        <td align="center"><img src="https://github.com/user-attachments/assets/9e1c1128-11b8-4be2-8e22-599be6789765" /></td>
+        <td align="center"><img src="https://github.com/user-attachments/assets/9e1c1128-11b8-4be2-8e22-599be6789765" /></td>
         <td align="center"><img src="https://github.com/user-attachments/assets/b95eea07-c69a-4bbf-9a8f-eccda41c410e" /></td>
-        <td align="center"><img src="https://github.com/user-attachments/assets/9ef1c476-387c-4816-bd8c-e0b7194ad7db" /></td>
-        <td align="center"><img src="https://github.com/user-attachments/assets/92cdb914-f262-441e-88f7-6b758df42d10" /></td>
+        <td align="center"><img src="https://github.com/user-attachments/assets/d156a043-2652-4daa-8d21-01000148a600" /></td>
+        <td align="center"><img src="https://github.com/user-attachments/assets/8a1a7f47-11af-450f-aede-6f280f78e608" /></td>
     </tr>
     <tr>
         <td align="center"><b><a href="https://github.com/lgns1027">전지훈</a></b></td>
@@ -33,11 +33,8 @@
 
 
 ### Introduction
-<img width="1080" height="1440" alt="카드뉴스 표지 6" src="https://github.com/user-attachments/assets/8e439b41-da7d-477a-8ba8-fb618bc9bd37" />
-<img width="1080" height="1440" alt="카드뉴스 표지 12" src="https://github.com/user-attachments/assets/7c97c21e-dbaa-481a-9082-fa0171a0a08e" />
-<img width="1080" height="1440" alt="카드뉴스 표지 8" src="https://github.com/user-attachments/assets/d0f01c71-5c02-4107-aae2-e44798fd4e9b" />
-<img width="1080" height="1440" alt="카드뉴스 표지 9" src="https://github.com/user-attachments/assets/a8446633-77bf-4de1-872c-023dcd8f263d" />
-<img width="1080" height="1440" alt="카드뉴스 표지 10" src="https://github.com/user-attachments/assets/36e41885-2eca-4ca8-a41b-31bafa324807" />
-
-
-
+<img width="1080" height="1440" alt="카드뉴스 표지 6" src="https://github.com/user-attachments/assets/f2e35be2-0e54-4b52-8c67-3cb1a5ed8be1" />
+<img width="1080" height="1440" alt="카드뉴스 표지 12" src="https://github.com/user-attachments/assets/33182ec2-3662-4538-8ed9-8040b90c31ee" />
+<img width="1080" height="1440" alt="카드뉴스 표지 8" src="https://github.com/user-attachments/assets/cb2fac0f-c7a7-48cd-a0e8-415d78eca168" />
+<img width="1080" height="1440" alt="카드뉴스 표지 9" src="https://github.com/user-attachments/assets/db6199e5-2332-448b-9a6b-9db9dae03f5e" />
+<img width="1080" height="1440" alt="카드뉴스 표지 10" src="https://github.com/user-attachments/assets/c05cc07b-cc4e-498b-a46b-e8ab545a0c79" />
